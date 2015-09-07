@@ -1,3 +1,4 @@
 name: Linear
 description: Linear template for Jekyll
 paginate: 10
+baseurl: '/Linear-Jekyll-Theme'
