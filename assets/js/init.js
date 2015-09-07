@@ -1,3 +1,5 @@
+---
+---
 /*
 	Linear by TEMPLATED
     templated.co @templatedco
@@ -5,7 +7,7 @@
 */
 
 skel.init({
-	prefix: '/assets/css/style',
+	prefix: '{{ site.baseurl }}/assets/css/style',
 	resetCSS: true,
 	boxModel: 'border',
 	grid: {
