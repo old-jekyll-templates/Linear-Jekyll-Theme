@@ -2,3 +2,4 @@ name: Linear
 description: Linear template for Jekyll
 paginate: 10
 baseurl: "/tjpark"
+url: "tjpark.github.io"
